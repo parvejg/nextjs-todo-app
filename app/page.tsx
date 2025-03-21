@@ -38,7 +38,7 @@ export default function Home() {
         </a>
       </nav>
 
-      {/* Todo Input */}
+      {/* Todo Inputt */}
       <div className="max-w-md mx-auto mt-10 p-4 bg-white shadow-lg rounded-lg">
         <div className="flex gap-2">
           <input
